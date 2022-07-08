@@ -1,0 +1,4 @@
+target/test-classes/com/pingcap/AppTest.class
+target/test-classes/com/pingcap/AppTest$1.class
+target/test-classes/com/pingcap/AppTest$2.class
+data/lineitem.tbl
